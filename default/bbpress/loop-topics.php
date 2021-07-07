@@ -11,7 +11,7 @@
 defined( 'ABSPATH' ) || exit;
 
 do_action( 'bbp_template_before_topics_loop' ); ?>
-
+crazzy!!!
 <ul id="bbp-forum-<?php bbp_forum_id(); ?>" class="bbp-topics">
 	<li class="bbp-header">
 		<ul class="forum-titles">
